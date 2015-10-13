@@ -4,3 +4,6 @@ C:\Users\J\Desktop\Interview.Questions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
 C:\Users\J\Desktop\Interview.Questions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
 C:\Users\J\Desktop\Interview.Questions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\Users\J\Desktop\Interview.Questions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\J\Desktop\GitDefaultFolder\hello-world\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\J\Desktop\GitDefaultFolder\hello-world\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\J\Desktop\GitDefaultFolder\hello-world\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
